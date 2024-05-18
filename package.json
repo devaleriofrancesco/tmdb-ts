@@ -1,5 +1,5 @@
 {
-  "name": "tmdb-ts",
+  "name": "@francescodevalerio/tmdb-ts",
   "version": "1.8.0",
   "description": "TMDB v3 library wrapper",
   "main": "dist/index.js",
@@ -12,12 +12,12 @@
     "pre-commit": "npm run lint"
   },
   "bugs": {
-    "url": "https://github.com/blakejoy/tmdb-ts/issues",
-    "email": "blake@bjoynes.com"
+    "url": "https://github.com/devaleriofrancesco/tmdb-ts/issues",
+    "email": "servizi@francescodevalerio.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blakejoy/tmdb-ts.git"
+    "url": "https://github.com/devaleriofrancesco/tmdb-ts"
   },
   "keywords": [
     "tmdb",
