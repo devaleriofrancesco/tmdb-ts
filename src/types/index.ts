@@ -81,6 +81,7 @@ export interface Company {
 
 export interface TV {
   id: number;
+  adult: boolean;
   name: string;
   first_air_date: string;
   backdrop_path: string;
