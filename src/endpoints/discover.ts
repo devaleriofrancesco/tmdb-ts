@@ -27,6 +27,7 @@ interface DiscoverQueryOptions {
   without_keywords?: string;
   with_keywords?: string;
   with_companies?: string;
+  include_adult?: boolean;
 }
 
 interface MovieQueryOptions extends DiscoverQueryOptions {

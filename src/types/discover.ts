@@ -14,6 +14,8 @@ export type SortOption =
   | 'vote_average.asc'
   | 'vote_average.desc'
   | 'vote_count.asc'
+  | 'first_air_date.asc'
+  | 'first_air_date.desc'
   | 'vote_count.desc';
 
 export interface MovieDiscoverResult {
