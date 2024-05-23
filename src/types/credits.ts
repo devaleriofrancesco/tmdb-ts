@@ -37,7 +37,7 @@ export interface CreditResponse {
 
 export interface Title {
   iso_3166_1: string;
-  title: string;
+  results: string;
   type: string;
 }
 
