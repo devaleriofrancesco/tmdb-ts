@@ -1,6 +1,6 @@
 {
   "name": "@francescodevalerio/tmdb-ts",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "description": "TMDB v3 library wrapper",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

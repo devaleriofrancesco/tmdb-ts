@@ -37,13 +37,13 @@ export interface CreditResponse {
 
 export interface Title {
   iso_3166_1: string;
-  results: string;
+  title: string;
   type: string;
 }
 
 export interface AlternativeTitles {
   id: number;
-  titles: Title[];
+  results: Title[];
 }
 
 export interface Cast {
